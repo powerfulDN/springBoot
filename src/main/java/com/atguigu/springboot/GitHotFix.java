@@ -2,6 +2,6 @@ package com.atguigu.springboot;
 
 public class GitHotFix {
     public static void main(String[] args) {
-        System.out.println("githotfix111111");
+        System.out.println("githotfix111111AAAAA");
     }
 }
