@@ -4,5 +4,6 @@ public class GitHotFix {
     public static void main(String[] args) {
         System.out.println("githotfix111111AAAAA");
         System.out.println("githotfix111111BBB");
+        System.out.println(" master ");
     }
 }
