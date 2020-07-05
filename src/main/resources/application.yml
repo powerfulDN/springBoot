@@ -1,0 +1,18 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /bbb
+spring:
+  http:
+    encoding:
+      charset: UTF-8
+
+
+user: {uname: zhangsan,age: 22}
+#pets:
+#  - cat
+#  - dog
+#  - pig
+
+
+pets: [cat,dog,pig]
